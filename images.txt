@@ -7,5 +7,12 @@ linuxserver/jackett
 allanpk716/chinesesubfinder
 kasmweb/nginx:1.25.3
 python:alpine3.19
+bitwardenrs/server
+homeassistant/amd64-addon-mosquitto
+amd64/phpmyadmin
+amd64/mysql
+amd64/python
+amd64/php
+amd64/adminer
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
