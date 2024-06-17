@@ -14,5 +14,9 @@ amd64/mysql
 amd64/python
 amd64/php
 amd64/adminer
+whyour/qinglong:latest
+whyour/qinglong:debian
+shufflewzc/qinglong
+hushunxu/qinglong_base
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
